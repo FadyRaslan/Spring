@@ -1,3 +1,4 @@
+package com.spring;
 
 public interface Sport {
 	
